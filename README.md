@@ -36,4 +36,4 @@
 
 [Validation](https://alexadutov.github.io/ahj-test/)
 
-![CI](https://ci.appveyor.com/api/projects/status/bwu6c01ppks34yy6?svg=true)
+![CI](https://ci.appveyor.com/api/projects/status/3ao49jv6lk5ona01?svg=true)
