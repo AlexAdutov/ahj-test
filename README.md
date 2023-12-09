@@ -6,7 +6,7 @@
 
 Общий вид виджета должен выглядеть следующим образом:
 
-![](./pic/validator.png)
+![](./img/validator.png)
 
 Скриншот взят с сайта http://www.validcreditcardnumber.com.
 
@@ -34,6 +34,6 @@
 
 ---
 
-[Validation](https://avs-2307.github.io/CreditCardValidation/)
+[Validation](https://alexadutov.github.io/ahj-test/)
 
-![CI](https://github.com/AVS-2307/CreditCardValidation/actions/workflows/web.yml/badge.svg)
+![CI](https://ci.appveyor.com/api/projects/status/bwu6c01ppks34yy6?svg=true)
